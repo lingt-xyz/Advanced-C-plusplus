@@ -1,2 +1,2 @@
-# Advanced-Program-Design-with-C-
+# Advanced-Program-Design-with-C++
 COMP345 in Concordia University
