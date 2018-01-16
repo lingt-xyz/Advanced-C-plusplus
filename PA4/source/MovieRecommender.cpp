@@ -7,11 +7,11 @@
  * 3. Recommend a list of top-n other movies that s/he would also like.
  *
  * \section Authors
- * 40014082    Ling Tan
+ *   Ling Tan
  * \n
- * 40018813    Rui Zhao
+ *   Rui Zhao
  * \n
- * 27419694    Vincent Boivin
+ *   Vincent Boivin
  */
 
 
